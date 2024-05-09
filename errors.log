@@ -1,0 +1,988 @@
+[01-May-2024 17:59:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 17:59:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 17:59:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 17:59:26 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 17:59:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 17:59:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 17:59:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 17:59:26 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "id", expecting ")" in /home/runner/Tele-bot/gates/AdyenAuth.php on line 264
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 18:01:04 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:01:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:01:04 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:01:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:01:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:01:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:01:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:01:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 18:01:05 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Tele-bot/gates/Shopfiy+Braintree10$.php on line 66
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 18:01:06 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:01:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:01:06 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 18:01:06 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Tele-bot/gates/Shopfiy+Braintree10$.php on line 66
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 18:03:11 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:03:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:03:11 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 18:03:11 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Tele-bot/gates/Shopfiy+Braintree10$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 18:04:29 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 18:04:29 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 18:04:29 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 18:04:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 18:04:29 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 18:05:47 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 18:05:47 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 18:05:47 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 18:05:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 18:05:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 18:07:20 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 18:07:20 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 18:07:20 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 18:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 18:07:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 21:22:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 21:22:18 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:18 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:22:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:22:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[01-May-2024 21:22:47 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:22:47 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:47 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:49 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:22:50 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:50 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:53 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:22:53 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:53 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:58 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/function/cmdsstart.php on line 53
+[01-May-2024 21:22:58 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7021801092:AAEi5QsEA6cbp5a7qOI7mdLzShA3ytAw--E/deleteMessage?chat_id=5952669295&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Tele-bot/function/cmdsstart.php on line 53
+[01-May-2024 21:22:59 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:22:59 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:22:59 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:23:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:23:34 UTC] PHP Warning:  Undefined variable $socks5 in /home/runner/Tele-bot/gates/Stripe 15$.php on line 254
+[01-May-2024 21:23:34 UTC] PHP Warning:  Undefined variable $rotate in /home/runner/Tele-bot/gates/Stripe 15$.php on line 255
+[01-May-2024 21:23:34 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Stripe 15$.php on line 257
+[01-May-2024 21:23:36 UTC] PHP Warning:  Undefined variable $socks5 in /home/runner/Tele-bot/gates/Stripe 15$.php on line 303
+[01-May-2024 21:23:36 UTC] PHP Warning:  Undefined variable $rotate in /home/runner/Tele-bot/gates/Stripe 15$.php on line 304
+[01-May-2024 21:23:36 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Stripe 15$.php on line 308
+[01-May-2024 21:23:36 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Stripe 15$.php on line 315
+[01-May-2024 21:23:37 UTC] PHP Warning:  Undefined variable $last in /home/runner/Tele-bot/gates/Stripe 15$.php on line 352
+[01-May-2024 21:23:43 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:23:43 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:23:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:23:50 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:23:50 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:24:00 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/function/cmdsstart.php on line 53
+[01-May-2024 21:24:00 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7021801092:AAEi5QsEA6cbp5a7qOI7mdLzShA3ytAw--E/deleteMessage?chat_id=5952669295&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Tele-bot/function/cmdsstart.php on line 53
+[01-May-2024 21:24:00 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:24:00 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:24:00 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:24:17 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:24:18 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 192
+[01-May-2024 21:24:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:24:18 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:24:19 UTC] PHP Warning:  Undefined variable $poxySocks4 in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 246
+[01-May-2024 21:24:19 UTC] PHP Warning:  Undefined variable $proxy in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 247
+[01-May-2024 21:24:19 UTC] PHP Warning:  Undefined variable $auth in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 248
+[01-May-2024 21:24:19 UTC] PHP Warning:  Undefined variable $poxySocks4 in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 270
+[01-May-2024 21:24:19 UTC] PHP Warning:  Undefined variable $proxy in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 271
+[01-May-2024 21:24:19 UTC] PHP Warning:  Undefined variable $auth in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 272
+[01-May-2024 21:24:20 UTC] PHP Warning:  Undefined variable $msg in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 314
+[01-May-2024 21:24:21 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:24:21 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:01 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:25:04 UTC] PHP Warning:  Undefined variable $socks5 in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 261
+[01-May-2024 21:25:04 UTC] PHP Warning:  Undefined variable $rotate in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 262
+[01-May-2024 21:25:04 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 266
+[01-May-2024 21:25:04 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 273
+[01-May-2024 21:25:17 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:17 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 21:25:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 21:25:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 21:25:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:25:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:25:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:25:18 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 21:25:19 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:19 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:25:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:25:19 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[01-May-2024 21:25:27 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:25:29 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 158
+[01-May-2024 21:25:30 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 176
+[01-May-2024 21:25:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:32 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:32 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:32 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:33 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:35 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:35 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:35 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:35 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:35 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 337
+[01-May-2024 21:25:35 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:35 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/runner/Tele-bot/tools/bin.php on line 60
+[01-May-2024 21:25:38 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:38 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:25:58 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:26:05 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:26:05 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 21:27:05 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 21:27:05 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:05 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:27:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:27:05 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[01-May-2024 21:27:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:27:24 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:24 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:24 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/admin/admincmd.php on line 10
+[01-May-2024 21:27:32 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/function/code.php on line 59
+[01-May-2024 21:27:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:27:32 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:32 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:36 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:27:36 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/function/redeem.php on line 33
+[01-May-2024 21:27:37 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:37 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:45 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:27:45 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/function/redeem.php on line 23
+[01-May-2024 21:27:46 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:46 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:52 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:27:52 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:52 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:27:52 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/admin/admincmd.php on line 10
+[01-May-2024 21:28:04 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Tele-bot/function/cmdsstart.php on line 53
+[01-May-2024 21:28:04 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7021801092:AAEi5QsEA6cbp5a7qOI7mdLzShA3ytAw--E/deleteMessage?chat_id=5952669295&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Tele-bot/function/cmdsstart.php on line 53
+[01-May-2024 21:28:05 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:28:05 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:28:05 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:28:25 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:28:25 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:28:25 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[01-May-2024 21:28:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[01-May-2024 21:28:50 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:28:50 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:28:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[01-May-2024 21:28:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 19
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 34
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/cmdsstart.php on line 61
+[09-May-2024 22:24:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Tele-bot/function/database.php on line 34
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/function/kok.php on line 61
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/function/kok.php on line 65
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 61
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 0$ .php on line 65
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 60
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 200$.php on line 64
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 60
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 25$.php on line 64
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 60
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Authorize Net 7$ .php on line 64
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 39
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree 3D LookUp.php on line 41
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Braintree1$Avs.php on line 3
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuth.php on line 3
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 68
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/BraintreeAuthV2.php on line 74
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/PayPal0.01$.php on line 72
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Payeezy 17$.php on line 72
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Stirpe 54$.php on line 73
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy + Striep 10$.php on line 73
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy 8.25$.php on line 77
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 68
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopfiy10$.php on line 74
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify + Payeezy 8$.php on line 73
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Shopify+Spreedly 6$.php on line 72
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/SquareAuth.php on line 59
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/SquareAuth.php on line 65
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 12$.php on line 68
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 12$.php on line 72
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 15$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 15$.php on line 75
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 2$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 2$.php on line 75
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 49$.php on line 62
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 49$.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5$.php on line 67
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5$.php on line 73
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 5.48$.php on line 75
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 70
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/Stripe 8.61$.php on line 74
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/StripeAuth.php on line 65
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/StripeAuth.php on line 71
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/abd.php on line 60
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/abd.php on line 66
+[09-May-2024 22:24:32 UTC] PHP Warning:  include(function/antispam.php): Failed to open stream: No such file or directory in /home/runner/Tele-bot/gates/fake.php on line 3
+[09-May-2024 22:24:32 UTC] PHP Warning:  include(): Failed opening 'function/antispam.php' for inclusion (include_path='.:/nix/store/0cqzc3525991mwba1762xbryq6llwrzm-php-8.2.0/lib/php') in /home/runner/Tele-bot/gates/fake.php on line 3
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/fake.php on line 39
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/fake.php on line 41
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/pp2.php on line 58
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/pp2.php on line 62
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[09-May-2024 22:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 69
+[09-May-2024 22:24:32 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Tele-bot/gates/shopfiy12.99$.php on line 75
